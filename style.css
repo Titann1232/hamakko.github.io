@@ -1,0 +1,108 @@
+img{
+	vertical-align:top;
+}
+
+.body{
+    background-color: #FFE6B4;
+}
+
+.hamakko{
+    background-color: #FFE6B4;
+}
+
+.hamakko{
+    background-image: url(assets//..images//..bg.png);
+}
+
+.bg{
+    top: -10px;
+}
+
+
+.tyuukagai, .buriki, .kafe, .hurannsuyama, .akarennga{
+    display: flex;
+}
+
+.setumei{
+    top: -100px;
+}
+
+.hamakko{
+    position: relative;
+}
+
+.tyuukagai{
+    margin-top: -480px;
+    margin-left: 100px;
+}
+
+.tyuukagai p a{
+    text-decoration: none;
+    color: #79523F;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.buriki{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.buriki p a{
+    text-decoration: none;
+    color: #79523F;
+    font-size: 15px;
+}
+
+.buriki img{
+    margin-left: 30px;
+}
+
+.kafe{
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+.kafe p a{
+    text-decoration: none;
+    color: #79523F;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.hurannsuyama{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.hurannsuyama p a{
+    text-decoration: none;
+    color: #79523F;
+    font-size: 15px;
+}
+
+.hurannsuyama img{
+    margin-left: 100px;
+}
+
+.akarennga img{
+    margin-top: -30px;
+}
+
+.akarennga p a{
+    text-decoration: none;
+    color: #79523F;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.akarennga p{
+    margin-top: 50px;
+}
+
+.tyuui{
+    font-size: 8px;
+    color: #79523F;
+    margin-top: -40px;
+    margin-left: 220px;
+}
